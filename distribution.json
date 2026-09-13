@@ -375,9 +375,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 13786763,
+            "size": 13789124,
             "url": "https://github.com/mchdistro/MF3-Diamond/raw/main/servers/MF3-Diamond-1.20.1/files/resourcepacks/generated.zip",
-            "MD5": "8b01c9cbb3338410e3e1225905f04831",
+            "MD5": "bab7c1a0b4c7189fe431fe57ccb41057",
             "path": "resourcepacks/generated.zip"
           }
         },
